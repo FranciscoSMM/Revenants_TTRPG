@@ -1,6 +1,6 @@
 # Persona-RPG
 
-This is more of an experiment to me and to have nice stuff to play in the future. This fan game is free and I don't plan to publish it but if you want to support my artwork and other content that I make, I do have a patreon at patreon.com/fmats.
+This is more of an experiment to me and to have nice stuff to play in the future. This fan game is free and I don't plan to publish it but if you want to support my artwork and other content that I make, I do have a patreon at http://www.patreon.com/fmats.
 
 
 This is the main Repository for the Persona RPG :D
