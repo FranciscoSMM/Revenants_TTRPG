@@ -1,4 +1,4 @@
-# Revenants: Hearts Guise
+# Revenants: Heart's Guise
 
 Version Alpha 0.0.31
 
